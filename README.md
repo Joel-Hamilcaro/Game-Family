@@ -2,7 +2,6 @@
 
 <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white"/>    
 
-
 *Projet réalisé en binôme dans le cadre du cours "Programmation Orientée Objet et Interfaces Graphiques"*   
 **Auteurs : [Joël Hamilcaro](https://github.com/Joel-Hamilcaro/) et [Jie Tu](https://github.com/jie-tu)**
 
